@@ -1,0 +1,18 @@
+package com;
+
+public class Manager extends Employee{
+	
+private int numberofemploy;
+	
+	void setManager(int numberofemploy) {
+		this.numberofemploy=numberofemploy;
+	}
+	
+	
+	void disManager() {
+		System.out.println("Manager details");
+		System.out.println("Number of employ: "+numberofemploy);
+		
+	}
+
+}

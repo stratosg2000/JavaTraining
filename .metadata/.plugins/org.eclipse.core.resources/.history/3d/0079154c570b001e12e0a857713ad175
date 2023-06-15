@@ -1,0 +1,14 @@
+package a;
+
+public class EmployeeTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Employee empl = new Employee();
+	empl.id= 1;
+	empl.name="lex";
+	empl.salary=12000;			
+	empl.display();
+	}
+
+}

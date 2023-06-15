@@ -1,0 +1,16 @@
+package com;
+
+public class EmployTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Employee emp1 = new Employee();
+		emp1.disEmployee();
+		
+		Manager mgr1 = new Manager();
+		mgr.disManager();
+		
+
+	}
+
+}

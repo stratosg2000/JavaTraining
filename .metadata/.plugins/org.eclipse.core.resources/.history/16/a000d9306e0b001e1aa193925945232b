@@ -1,0 +1,9 @@
+package com;
+
+public class Manager {
+	
+	void disManager() {
+		System.out.println("Manager details");
+	}
+
+}

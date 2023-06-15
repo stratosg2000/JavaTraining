@@ -1,0 +1,17 @@
+package a;
+
+public class Employee {
+	int id;
+	String name;
+	float salary;
+	
+		void setValue(int id, String name, float salary) {};
+		
+		void display() {			// behaviour or function 
+				System.out.println("id is "+id);
+				System.out.println("name is "+name);
+				System.out.println("salary is "+salary);
+		}
+	}
+
+
